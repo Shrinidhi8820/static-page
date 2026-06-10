@@ -2,7 +2,7 @@ function notifyUser() {
     alert("🎉 Thanks for your interest! We'll notify you at launch.");
 }
 
-const launchDate = new Date("December 31, 2026 00:00:00").getTime();
+const launchDate = new Date("September 20, 2026 00:00:00").getTime();
 
 setInterval(() => {
 
